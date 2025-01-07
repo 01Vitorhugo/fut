@@ -29,7 +29,7 @@ function App() {
         </div>
 
         <figure className='mt-10'>
-          <img src={ImageBola} alt='bola'  className='h-60 bola'/>
+          <img src={ImageBola} alt='bola'  className='h-28 bola'/>
         </figure>
 
       </section>
