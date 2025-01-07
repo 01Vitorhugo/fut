@@ -8,7 +8,11 @@ module.exports = {
     colors: {
       colorPrin: '#202020',
       colorSegun: '#ffff',
-      colorText: '#ffff'
+      colorText: '#ffff',
+      colorTrans: '#ffffff60',
+      colorAzul: '0000cd',
+      colorVermelho: 'ff0000'
+
 
     },
 
