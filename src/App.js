@@ -10,7 +10,7 @@ function App() {
   return (
     <div className=" bg-colorPrin h-screen  flex  justify-center items-center overflow-hidden">
       <section className=' container flex flex-col justify-center items-center'>
-        <h1 className='mt-20 text-colorText text-2xl'>FUT VILA GRANADA</h1>
+        <h1 className='mt-7 text-colorText text-2xl'>FUT VILA GRANADA</h1>
 
         <div className="h-auto w-full mt-20 flex gap-2 p-2">
           <button className="w-2/4 ">
@@ -29,7 +29,7 @@ function App() {
         </div>
 
         <figure className='mt-10'>
-          <img src={ImageBola} alt='bola'  className='h-28 bola'/>
+          <img src={ImageBola} alt='bola'  className='h-40 bola'/>
         </figure>
 
       </section>
