@@ -14,7 +14,7 @@ export default function Coletes() {
 
     return (
         <div className=" h-screen  flex flex-col justify-center items-center relative">
-            <nav className="absolute top-2 right-0 h-9 w-24 text-colorText ">
+            <nav className="absolute top-64 right-0 h-9 w-24 text-colorText ">
                <h1>N° times {numeros}</h1> 
             </nav>
 
