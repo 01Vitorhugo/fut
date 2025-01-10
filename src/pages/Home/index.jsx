@@ -8,7 +8,7 @@ export default function Home() {
 
     return (
 
-        <div className=" h-screen  flex  justify-center items-center overflow-hidden">
+        <div className=" h-full  flex  justify-center items-center">
             <section className=' container flex flex-col justify-center items-center'>
                 <h1 className='mt-7 text-colorText text-2xl'>FUT VILA GRANADA</h1>
 
